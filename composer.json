@@ -1,0 +1,10 @@
+{
+    "name": "hotensv/shop-thoi-trang",
+    "desciption": "xây dựng wedsite bán hàng- Thầy Lợi dạy ",
+    "autoload":{
+        "psr-4": {
+            "src\\":"application/"
+        }
+    },
+    "require":{}
+}
